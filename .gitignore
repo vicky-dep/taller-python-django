@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variables de entorno
+.env
+.env.*
+
+# Base de datos local Django
+db.sqlite3
+
+# Archivos del sistema
+.DS_Store
